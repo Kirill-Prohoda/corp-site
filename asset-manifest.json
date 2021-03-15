@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-boots-corp-site/static/css/main.a5701ce4.chunk.css",
-    "main.js": "/react-boots-corp-site/static/js/main.85b28dd9.chunk.js",
-    "main.js.map": "/react-boots-corp-site/static/js/main.85b28dd9.chunk.js.map",
+    "main.js": "/react-boots-corp-site/static/js/main.480da45f.chunk.js",
+    "main.js.map": "/react-boots-corp-site/static/js/main.480da45f.chunk.js.map",
     "runtime-main.js": "/react-boots-corp-site/static/js/runtime-main.b19e7cec.js",
     "runtime-main.js.map": "/react-boots-corp-site/static/js/runtime-main.b19e7cec.js.map",
     "static/js/2.8c8fa7c2.chunk.js": "/react-boots-corp-site/static/js/2.8c8fa7c2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b19e7cec.js",
     "static/js/2.8c8fa7c2.chunk.js",
     "static/css/main.a5701ce4.chunk.css",
-    "static/js/main.85b28dd9.chunk.js"
+    "static/js/main.480da45f.chunk.js"
   ]
 }
